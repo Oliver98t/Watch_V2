@@ -1,0 +1,27 @@
+1. debounce switches 
+	1. set up timer overflow - DONE
+	2. set up interrupt with timer overflow - DONE
+	3. read switches in ISR and set state variables - DONE
+
+2. get deep sleep mode example working - DONE
+
+3. Have atmega328p go into deep sleep based on timer condition - DONE
+
+4. integrate debounce and deeep sleep with main watch firmware
+	1. clean up code base - to do
+	2. integrate debounce - DONE
+	3. integrate deep sleep - DONE
+
+5. when switches are pressed, reset sleep state counter - DONE
+
+6. source components and equipment
+
+7. design PCB - DONE
+	1. add 4.7k internal pullups on i2c bus
+	2. add 1uF decoupling capacitor on hnd and vcc
+
+8. purchase equipment
+	1. reflow station
+	2. solder paste
+	3. hobby matt
+	4. solder wick
