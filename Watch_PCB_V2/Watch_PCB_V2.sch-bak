@@ -165,7 +165,7 @@ U 1 1 6200B415
 P 4900 850
 F 0 "OLED_screen1" V 4838 562 50  0000 R CNN
 F 1 " " V 4747 562 50  0000 R CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical" H 4900 850 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical" H 4900 850 50  0001 C CNN
 F 3 "~" H 4900 850 50  0001 C CNN
 	1    4900 850 
 	0    -1   -1   0   
@@ -184,7 +184,7 @@ U 1 1 6200FF7D
 P 2450 1950
 F 0 "ICSP_PORT1" V 2296 2198 50  0000 L CNN
 F 1 " " V 2387 2198 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical" H 2450 1950 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x06_P2.00mm_Vertical" H 2450 1950 50  0001 C CNN
 F 3 "~" H 2450 1950 50  0001 C CNN
 	1    2450 1950
 	0    1    1    0   
